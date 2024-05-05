@@ -1,4 +1,6 @@
 # Demo di Deploy di App su Hugging Face con Streamlit
+
+LINK HF --> https://huggingface.co/sagax-sagacis
 Questo repository contiene due demo per il deploy di applicazioni utilizzando Streamlit e modelli preaddestrati Hugging Face:
 
 ## Object Detection: 
